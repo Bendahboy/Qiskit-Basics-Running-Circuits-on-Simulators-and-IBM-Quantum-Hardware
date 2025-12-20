@@ -82,7 +82,6 @@ Press Enter and wait for the installation to complete.
 4. Choose the **"Quantum"** environment
 5. Run cells by clicking the **▶ Play** button next to each cell, or press `Shift+Enter`
 
-**That's it!** You can now run all notebooks directly in VS Code without launching Jupyter in a browser.
 
 
 ### Available Notebooks
